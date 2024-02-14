@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="SplashActivity" parent="Base.Theme.Kauppalista">
+        <item name="android:windowSplashScreenBackground">@color/mainOrange</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/cart</item>
+     </style>
+</resources>

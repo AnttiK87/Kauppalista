@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--alanavigointi valikon ui:n komponentit-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Lista"
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_ist_24"
+        />
+    <item android:title="Yleisimmät"
+        android:id="@+id/yleinen"
+        android:icon="@drawable/baseline_add_24"/>
+
+</menu>

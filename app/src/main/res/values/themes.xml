@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Kauppalista" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/mainOrange</item>
+        <item name="android:navigationBarColor">@color/mainOrange</item>
+    </style>
+
+
+    <!-- Main application theme -->
+    <style name="Theme.Kauppalista" parent="Base.Theme.Kauppalista" />
+
+    <!-- Custom Toolbar title text style -->
+    <style name="ToolbarTitleTextStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

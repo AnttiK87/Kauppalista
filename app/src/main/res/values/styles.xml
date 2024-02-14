@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Widget.Theme.Kauppalista.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/pressed_color</item>
+    </style>
+
+
+</resources>
